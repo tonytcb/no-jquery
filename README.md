@@ -12,7 +12,7 @@ A ideia inicial é mostrar de forma simples e direta como trabalhar com __javasc
 
 Se você quiser ajudar a melhorar este guia, escrevendo, corrigindo ou aprimorando a experiência de utilização, por favor, faça um FORK do projeto e mãos à obra.
 
-## Indice
+## Índice
 
 - [Seletores](https://github.com/renanmpimentel/no-jquery/blob/master/docs/selector.md)
 - Utilidade
